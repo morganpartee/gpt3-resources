@@ -1,4 +1,3 @@
-<head> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </head>
 
 I experimented a ton with JSON before giving up and using something more esoteric (Which honestly, is all a red flag. That's reinventing the wheel - And when you do that, it's probably not super round.)
 
