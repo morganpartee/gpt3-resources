@@ -8,3 +8,4 @@ I still haven't found a good replacement. A ton of LLM research and ideas come o
 
 [GPT Tech Support](https://twitter.com/gpt_techsupport)
 
+[Zack Korman](https://twitter.com/ZackKorman)

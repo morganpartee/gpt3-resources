@@ -13,3 +13,11 @@ Oh my god, okay so maybe this whole repo is just going to become a Riley fan let
 [CodeGPT Ref](https://github.com/morganpartee/codegpt/blob/main/codegpt/gpt_interface.py#L50)
 
 Honestly requiring this output format wasn't the biggest improvement in accuracy - Putting the code and prompt behind '> 's is what really did it - The two together is enough reinforcement that it's pretty damn reliable.
+
+---
+
+[Code Generation](Code%20Generation.md), assuming prompt is a markdown file, using code blocks works great for single files:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">For code-generation tasks assuming the top-level document is Markdown and generating within code blocks with stop sequence &quot;```⏎&quot; also works well: <a href="https://t.co/755oJij4tB">pic.twitter.com/755oJij4tB</a></p>&mdash; Riley Goodside (@goodside) <a href="https://twitter.com/goodside/status/1608334443743166471?ref_src=twsrc%5Etfw">December 29, 2022</a></blockquote>
+
+---
+
