@@ -13,9 +13,11 @@ The goal of this project is to use GPT-3 to solve a problem that you are facing 
 
 Here are some resources that you may find helpful as you work on this project:
 
-- [GPT-3 documentation](https://beta.openai.com/docs/models/gpt-3)
 - [GPT-3 tutorial](https://beta.openai.com/docs/quickstart)
-- [GPT-3 example code](https://beta.openai.com/docs/code_samples/gpt3)
+- [GPT-3 example code](https://github.com/openai/openai-cookbook)
+
+(When you need it, please don't start here)
+- [GPT-3 documentation](https://beta.openai.com/docs/models/gpt-3)
 
 ## Process
 
